@@ -9,6 +9,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-    Console.WriteLine('Nu zdarova Vladik');        
+    Console.WriteLine('Nu zdarova Vladik');  blya srar
+      
         }
-}
+    }
